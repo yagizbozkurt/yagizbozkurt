@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently student in high school [reminder app](https://github.com/yagizbozkurt/reminder1)
+- 🔭 I’m currently student in high school
 
 - 🌱 I’m currently learning **java and new informations**
 
