@@ -1,4 +1,5 @@
-![masterHead]([[[[https://media.licdn.com/dms/image/v2/D4D16AQHnqjT6gmfn2w/profile-displaybackgroundimage-shrink_350_1400/B4DZlXiNbMJkAY-/0/1758110211240?e=1761177600&v=beta&t=NkeUy_Kry-77iebw2X7Fqym5IZHgqPOGjXyNPMMiug8](https://imgur.com/a/gS3NvHL)](https://media.licdn.com/dms/image/v2/D4D16AQHnqjT6gmfn2w/profile-displaybackgroundimage-shrink_350_1400/B4DZlXiNbMJkAY-/0/1758110211240?e=1761177600&v=beta&t=NkeUy_Kry-77iebw2X7Fqym5IZHgqPOGjXyNPMMiug8)](https://media.licdn.com/dms/image/v2/D4D16AQHnqjT6gmfn2w/profile-displaybackgroundimage-shrink_350_1400/B4DZlXiNbMJkAY-/0/1758110211240?e=1761177600&v=beta&t=NkeUy_Kry-77iebw2X7Fqym5IZHgqPOGjXyNPMMiug8)](https://media.licdn.com/dms/image/v2/D4D16AQHnqjT6gmfn2w/profile-displaybackgroundimage-shrink_350_1400/B4DZlXiNbMJkAY-/0/1758110211240?e=1761177600&v=beta&t=NkeUy_Kry-77iebw2X7Fqym5IZHgqPOGjXyNPMMiug8))
+![masterHead](<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/b66f0e40-dcca-490d-9082-2d7b3d27285e" />
+)
 
 
 <h1 align="center">Hi 👋, I'm Latif Yagiz BOZKURT</h1>
