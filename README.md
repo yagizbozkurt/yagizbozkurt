@@ -1,5 +1,5 @@
 ![masterHead](https://media.licdn.com/dms/image/v2/D4D16AQHnqjT6gmfn2w/profile-displaybackgroundimage-shrink_350_1400/B4DZlXiNbMJkAY-/0/1758110211240?e=1763596800&v=beta&t=knP6gaAbanuOMS0DQ1rHA5SLgCGSWf82NucyAmATaAc)
-)
+
 
 
 <h1 align="center">Hi 👋, I'm Latif Yagiz BOZKURT</h1>
